@@ -1,0 +1,1 @@
+from tipe import config
